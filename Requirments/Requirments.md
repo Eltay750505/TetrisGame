@@ -40,9 +40,9 @@ The game is not very difficult and does not require a lot of time to learn, so i
 ### 3 System requirements <a name="3"></a>
 #### 3.1 Functional requirements <a name="3.1"></a>
 The user is provided with the following features.
-##### 1.Start the game by clicking start game button.
+##### 1.Begin the game by clicking start game button.
 ##### 2.Play until the shapes reach the ceiling. 
-##### 3.Read the rules in a section About.
+##### 3.Read the rules by clicking button About.
 ##### 4.Exit to the menu after defeat.
 ##### 5.Quit the game by clicking button Exit.
 #### 3.2 Non-functional requirements <a name="3.2"></a>
