@@ -32,7 +32,7 @@ This menu contains the main functionality of the application
 
 In the game window we see the current score, the next shape and the game field.
 
-![GameScreen]()
+![GameScreen](https://github.com/Eltay750505/TetrisGame/blob/master/images/New%20Mockup%202.png)
   
 #### 2.3 User characteristics <a name="2.3"></a>
 - Primary audience
