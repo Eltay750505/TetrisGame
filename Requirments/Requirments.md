@@ -28,6 +28,12 @@ This menu contains the main functionality of the application
 
 ![Main menu](https://github.com/Eltay750505/TetrisGame/blob/master/images/New%20Mockup%201.png)
 
+- Экран игры
+
+In the game window we see the current score, the next shape and the game field.
+
+![GameScreen]()
+  
 #### 2.3 User characteristics <a name="2.3"></a>
 - Primary audience
 The game is not very difficult and does not require a lot of time to learn, so it can suit any age group of people.
