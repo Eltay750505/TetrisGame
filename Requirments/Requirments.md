@@ -28,7 +28,7 @@ This menu contains the main functionality of the application
 
 ![Main menu](https://github.com/Eltay750505/TetrisGame/blob/master/images/New%20Mockup%201.png)
 
-- Экран игры
+- Game screen
 
 In the game window we see the current score, the next shape and the game field.
 
