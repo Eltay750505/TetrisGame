@@ -13,9 +13,9 @@
 <a name="2"/>
 
 # 2. Chose game mode
-![Sequence 2](https://github.com/Eltay750505/TetrisGame/blob/master/images/Diagrams/Sequence%20diagram%202.jpg)
+![Sequence 2](https://github.com/Eltay750505/TetrisGame/blob/master/images/Diagrams/Sequence%20diagram%203.jpg)
 
 <a name="3"/>
 
 # 3. Scoreboard
-![Sequence 3](https://github.com/Eltay750505/TetrisGame/blob/master/images/Diagrams/Sequence%20diagram%203.jpg)
+![Sequence 3](https://github.com/Eltay750505/TetrisGame/blob/master/images/Diagrams/Sequence%20diagram%202.jpg)
