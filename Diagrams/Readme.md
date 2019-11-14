@@ -1,1 +1,4 @@
-
+# UML Diagrams
+1. [Use case diagram](https://github.com/Eltay750505/TetrisGame/blob/master/Diagrams/Use case.md)
+2. [Activity diagram](https://github.com/Eltay750505/TetrisGame/blob/master/Diagrams/Activity.md)
+3. [Sequence diagram](https://github.com/BoryaD/PacMan/blob/master/Documents/Diagrams/Sequence.md)
