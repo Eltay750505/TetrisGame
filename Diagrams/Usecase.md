@@ -63,6 +63,6 @@
 <a name="2.3"/>
 
 ## 2.3 Scoreboard
-1. Player chooses item "Scoreboarda".
+1. Player chooses item "Scoreboard".
 2. The highscore window appears in front of the player.<br>
 3. Use case ends
