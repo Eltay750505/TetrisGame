@@ -2,53 +2,53 @@
 
 ![Use case diagram](https://github.com/Eltay750505/TetrisGame/blob/master/images/Diagrams/useCase.jpg)
 
-# Содержание
+# Content
 
-1. [Актёры](#1) <br>
-2. [Варианты использования](#2) <br>
-    2.1. [Начать игру](#2.1) <br>
-      2.1.1 [Показать игровой экран](#2.1.1) <br>
-      2.1.2 [Передвигаться по полю](#2.1.2) <br>
-      2.1.3 [Логическое завершение игры](#2.1.3) <br>
-    2.2. [Выбрать сложность игры](#2.2) <br>
-    2.3. [Ознакомиться с правилами игры](#2.3) <br>
+1. [Actors](#1) <br>
+2. [Using cases](#2) <br>
+    2.1. [Start game](#2.1) <br>
+      2.1.1 [Show the game screen](#2.1.1) <br>
+      2.1.2 [Control shapes](#2.1.2) <br>
+      2.1.3 [Game ends](#2.1.3) <br>
+    2.2. [Game options](#2.2) <br>
+    2.3. [Scoreboard](#2.3) <br>
     
         
  <a name="1"/>
  
- # 1 Актёры
+ # 1 Actors
  
-| Актёр | Описание |
+| Actor | Description |
 |:--|:--|
-| Игрок | Пользователь, который может использовать весь функционал приложения |
+| Player | User, which can use all appclication opportunities |
 
 <a name="2"/>
 
-# 2 Варианты использования
+# 2 Using cases
 
 <a name="2.1"/>
 
-## 2.1 Начать игру
+## 2.1 Start game
 
 <a name="2.1.1"/>
 
-### 2.1.1 Показать игровой экран
-1. Перед игроком появляется новое окно, которое запрашивает нажатие на клавишу для начала игры.<br>
-2. Игрок нажимает любую клавишу.<br>
-3. Появляется игровой лабиринт и Пакмэн начинает движение.
-4. Вариант использования завершается.
+### 2.1.1 Show the game screen
+1. A player window apperars in front of the player, which reqiers.<br>
+2. A player presses any button.<br>
+3. The playing field appears and the shapes begin to moving.
+4. Ending using case.
 
 <a name="2.1.2"/>
 
-### 2.1.2 Передвигаться по полю
-1. Позволяет персонажу передвигаться по лабиринту. При нажатии клавиш передвижения(клавиши "←/↑/→/↓")
-2. Вариант использования завершается.
+### 2.1.2 Control shapes
+1. Allows player to rotate shapes and move them to make a ful row. When keys are pressed(keys "←/↑/→/↓")
+2. Use case ends.
 
 <a name="2.1.3"/>
 
-### 2.1.3 Логическое завершение игры
-1. Игрок собирает все точки/игрок попадается призраку. 
-2. Появляется соответсвующая надпись "You win/You lose".
+### 2.1.3 Game ends
+1. Player reaches the ceiling or reaches his previous record. 
+2. The corresponding inscription appears "You win/You lose".
 3. Появляется окно, предлагающее повторную игру или выход в главное меню.
 4. Вариант использования завершается
 
