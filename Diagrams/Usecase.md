@@ -49,20 +49,20 @@
 ### 2.1.3 Game ends
 1. Player reaches the ceiling or reaches his previous record. 
 2. The corresponding inscription appears "You win/You lose".
-3. Появляется окно, предлагающее повторную игру или выход в главное меню.
-4. Вариант использования завершается
+3. A new window appears, which suggests to continue game or exit app.
+4. Use case ends
 
 <a name="2.2"/>
 
-## 2.2 Выбрать сложность игры
-1. Игрок выбирает в главном меню раздел "Opnions".
-2. Пред игроком появляется окно выбора сложности.
-3. Игрок выбирает сложность нажтием на соотвутствующим индикатором сложности "Hard/Medium/Easy"/.
-4. Вариант использования завершается.
+## 2.2 Game options
+1. Player chooses item "Opnions" in main menu.
+2. The difficulty selection window appears.
+3. Player presses button to sset new mode"Hard/Medium/Easy"/.
+4. Use case ends.
 
 <a name="2.3"/>
 
-## 2.3 Ознакомиться с правилами игры
-1. Игрок выбирает в главном меню раздел "About".
-2. Перед игроком появляется новое окно с правилами игры.<br>
-3. Вариант использования завершается.
+## 2.3 Scoreboard
+1. Player chooses item "Scoreboarda".
+2. The highscore window appears in front of the player.<br>
+3. Use case ends
