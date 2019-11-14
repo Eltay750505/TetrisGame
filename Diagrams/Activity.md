@@ -13,7 +13,7 @@
 <a name="2"/>
 
 # 2. Chose game mode
-![Activity diagram 2](https://github.com/Eltay750505/TetrisGame/blob/master/images/Diagrams/Activity%20Diagram2.jpg)
+![Activity diagram 2](https://github.com/Eltay750505/TetrisGame/blob/master/images/Diagrams/Activity%20diagram%202.jpg)
 
 <a name="3"/>
 
