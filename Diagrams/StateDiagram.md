@@ -7,7 +7,7 @@
 <a name="1"/>
 
 # 1. Content
-![Game process](https://github.com/Eltay750505/TetrisGame/blob/master/images/Diagrams/StateDiagram1.jpg)
+![Game process](https://github.com/Eltay750505/TetrisGame/blob/master/images/Diagrams/StateDiagram2.jpg)
 
 <a name="2"/>
 
