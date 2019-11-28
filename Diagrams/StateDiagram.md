@@ -12,4 +12,4 @@
 <a name="2"/>
 
 # 2. Game ends
-![Game ends](https://github.com/BoryaD/PacMan/blob/master/Images/Diagrams/State_2.png)
+![Game ends](https://github.com/Eltay750505/TetrisGame/blob/master/images/Diagrams/State%20Diagram2.jpg)
