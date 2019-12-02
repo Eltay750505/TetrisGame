@@ -31,67 +31,48 @@ The risks include:
 - The processing speed of game logic depends on the processor of the device
 <a name="4"></a>
  ## 4. Aspects of testing
-В ходе тестирования должна быть проверена реализация основных функций приложения, к которым относятся:  
-1. Начать игру
-2. Выбрать уровень игры
-3. Включить/выключить автоматический режим игры
-4. Проиграть в игру
-5. Выиграть в игру
-6. Ознакомиться с правилами игры
-7. Выход в меню после окончания игры
-8. Сыграть еще раз после окончания игры
-9. Закрыть приложение
-10. Понятный геймплей
-11. Производительность
+During testing, the implementation of the main functions of the application, which include:
+1. Start new game
+2. Lose the game
+3. Playing the game
+4. Pause the game
+5. Watch the scoreboard
 
-### Функциональные требования:
-#### 1. Начать игру
-Этот вариант использования небходимо протестировать при:
-- Включенном автоматическом режиме игры
-- Выключенном автоматическом режиме игры
-- На разных уровнях сложности
+### Functional requirement
+#### 1. Start new game
+This use case should be tested when:
+- Enabled automatic game mode
+- Controlled game mode
 
-#### 2. Выбрать уровень
-Этот вариант использования небходимо протестировать на возможность выбора одного из уровней (Easy, Medium, Hard).
+#### 2. Lose the game
+When one of the blocks reaches the ceiling, the game ends
 
-#### 3. Включить/выключить автоматический режим игры
-Этот вариант использования небходимо протестировать на возможность включения автоматического режима игры и выключения автоматического режима игры.
+#### 3. Playing the game
+This use case should be tested for the ability to test the gameplay.
 
-#### 4. Проиграть в игру
-Этот вариант использования небходимо протестировать при столкновении Пакмена с призраками. В данном случае пользователю должно отобразиться сообщение о проигрыше.
+#### 4. Pause the game
+This use case should be tested when you press pause.
 
-#### 5. Выиграть в игру
-Этот вариант использования небходимо протестировать при сборе Пакмен всех игровых единиц в виде точек. В данном случае пользователю должно отобразиться сообщение о выигрыше.
-
-#### 6. Ознакомиться с правилами игры
-Этот вариант использования небходимо протестировать на возможность отображения правил игр при нажатии на кнопку меню "About".
-
-#### 7. Выход в меню после окончания игры
-Этот вариант использования небходимо протестировать на возможность после кончания игры в всплывающем окне нажать на кнопку "Menu". После чего пользователю отобразится окно главного меню.
-
-#### 8. Сыграть еще раз после окончания игры
-Этот вариант использования небходимо протестировать на возможность после кончания игры в всплывающем окне нажать на кнопку "Restart". После чего пользователю отобразится окно c игровым полем.
-
-#### 9. Закрыть приложение
-Этот вариант использования небходимо протестировать при нажатии на кнопку в главном меню "Exit". В данном случае работа приложения должна завершиться.
+#### 5. Watch the scoreboard
+This use case should be tested during the draw by clicking on the score button.
 
 ### Нефункциональные требования:
-#### 1. Понятный геймплей
-Понимание того, что надо делать после одной-трех игр.
+#### 1. Clear gameplay
+Understanding what to do after one or three games.
 
-#### 2. Производительность
-Отсутствие фризов во время использования приложения
+#### 2. Performance
+No friezes while using the app
 
 <a name="5"></a>
 ## 5. Approaches to testing
-Для тестирования приложения необходимо вручную проверить каждый аспект тестирования.
+To test an application, you must manually test every aspect of the testing.
 
 <a name="6"></a>
 ## 6. Presentation of results
-Результаты тестирования представлены в [документе](https://github.com/BoryaD/PacMan/blob/master/Testing/Test%20results.md).
+The test results are presented in the [doc](https://github.com/Eltay750505/TetrisGame/blob/master/Testing/TestResult.md).
 
 <a name="7"></a>
 ## 7. Conclusion
-Данный тестовый план позволяет протестировать основной функционал приложения. Успешное прохождение всех тестов с высокой вероятностью можно говорить о хорошей работоспособности, и о том, что данное программное обеспечение работает корректно.
+This test plan allows you to test the main functionality of the application. Successful completion of all tests with a high probability can be said about good performance, and that this software works correctly.
 
     
