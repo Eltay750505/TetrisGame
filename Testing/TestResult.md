@@ -1,9 +1,7 @@
 |Script|Action|Expected Result|Actual Result| Mark|
 |:---|:---|:---|:---|:---|
-|1. Start game|Press the button "Game" in main menu|Opening window with the game field, on which user can see the bricks| Game field appears| executed|
-|4. Lose the game|Brick reaches the ceiling|Appearence of a window with possible text "Game over" and opportunity to start game again|When you press keys "ponter" brick can be rotated, when a brick collided with the ceiling, a dialog box appeared with a suggestion to play again | executed |
-|5. Выиграть в игру|Собрать все точки на игровом поле|Появление модального окна с текстом "You win" и возможностью выбрать дальнейшее действие|выиграть на средней сложности оказалось достаточно проблематично, основной проблемой является не удобное управление. Стоит продублировать управление на клавиши "WASD" |частично выполнено |
-|6. Ознакомиться с правилами игры|Нажатие на кнопку "About" в меню|Открытие окна с текстом инструкции к игре| открылось окно с правилами игры |выполнено |
-|7. Выход в меню после окончания игры|В отобразившимся модальном окне с результатом игры нажать кнопку "Menu"|Открытие окна с главным меню|открылось основное меню приложения |выполнено |
-|8. Сыграть еще раз после окончания игры|В отобразившимся модальном окне с результатом игры нажать кнопку "Restart"|Открытие окна с игровым полем, на котором находятся точки, призраки и Пакмен|при нажатии кнопки "Restart" пакмен появился в исходной точке, все точки появились заново, призраки оказались на начальных позициях |выполнено |
-|9. Закрыть приложение|Нажатие на кнопку "Exit" в меню|Завершение работы приложения. Закрытие всех окон приложения|при нажатии, окно закрылось |выполнено |
+|1. Start new game|Press the button "Game" in main menu|Opening window with the game field, on which user can see the bricks| Game field appears| executed|
+|2. Lose the game|Brick reaches the ceiling|Appearence of a window with possible text "Game over" and opportunity to start game again|When you press keys "ponter" brick can be rotated, when a brick reaches the ceiling, a dialog box appeared with a suggestion to play again | executed |
+|3. Playing the game|Rotate bricks for getting full row | delete the filled row, score points and shift the playing field down |since the application supports WASD control, the gameplay of scoring is very simple| executed |
+|4. Pause the game|Press the button P or Pause on the Window |Stop gameplay untill hte resume button isn't pressed | Pause label appears and the gameplay stops | executed |
+|5. Watch the scoreboard|in the displayed window press the score button|Score window appears| There is window with the highest score |executed |
