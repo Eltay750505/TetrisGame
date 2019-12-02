@@ -9,26 +9,26 @@
   7. [Conclusion](#8)
   <a name="1"></a>
  ## 1. Introduction
-Содержание данного документа описывает план тестирования desktop-приложения "PacMan". Цель проведения тестирования - проверка приложения в соответствии с SRS.
+The content of this document describes the test plan for the Tetris desktop application. The purpose of testing is to test the application in accordance with SRS.
 <a name="2"></a>
  ## 2. Testing object
-### 1. Функциональная пригодность
--   #### Функциональная полнота
-    Набор функций приложения должен покрывать все возможности, описанные в SRS.
--   #### Функциональная корректность
-    Приложение должно выполнять все заявленные функции корректно.
--   #### Функциональная целесообразность.
-    Отсутствуют не заявленные функции, которые бы мешали приложению выполнять первоначально поставленные задачи.
-### 2. Удобство использования
--   #### Доступность пользовательского интерфейса
-    Элементы управления объектами должны быть всегда доступны пользователю
--   #### Актуальность
-    Все изменения происходят в режиме реального времени
+### 1. Functional suitability
+-   #### functional completeness
+    The feature set of the application should cover all the features described in the SRS.
+-   #### Functional correctness
+    The application must perform all declared functions correctly.
+-   #### Functional feasibility.
+    There are no non-declared functions that would prevent the application from performing the originally assigned tasks.
+### 2. Usability
+-   #### The accessibility of the user interface
+    Object controls must always be available to the user
+-   #### Urgency
+    All changes happen in real time
 <a name="3"></a>
 ## 3. Risks
-К рискам можно отнести:
-- В случае отсутствия JVM на девайсе, приложение не запустится
-- Скорость обработки игровой логики зависит от процессора девайса
+The risks include:
+- If there is no JVM on the device, the application will not start
+- The processing speed of game logic depends on the processor of the device
 <a name="4"></a>
  ## 4. Aspects of testing
 В ходе тестирования должна быть проверена реализация основных функций приложения, к которым относятся:  
