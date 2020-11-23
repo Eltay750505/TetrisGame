@@ -1,4 +1,4 @@
-# TritpoLab2
+# TritpoProject
 ## Tetris game
 Tile-matching puzzle video game 
 
